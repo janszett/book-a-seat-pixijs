@@ -1,7 +1,4 @@
 export default {
-  server: {
-    host: '0'
-  },
   ssr: false,
   env: {
     apiEndpointSeats: '/api/seats'
