@@ -38,9 +38,9 @@ function randomStatus () {
 }
 
 function getCategory (x) {
-  if (x < 300) return 1;
-  if (x < 600) return 2;
-  if (x < 900) return 3;
+  if (x < 200) return 1;
+  if (x < 400) return 2;
+  if (x < 600) return 3;
   return 4;
 }
 
