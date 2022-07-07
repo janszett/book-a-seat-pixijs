@@ -1,4 +1,10 @@
 export default {
+  /*
+  // To run on local ip instead of localhost
+  server: {
+    host: '0'
+  },
+  */
   ssr: false,
   env: {
     apiEndpointSeats: '/api/seats'
